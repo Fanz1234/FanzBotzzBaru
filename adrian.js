@@ -1253,7 +1253,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
  *TERIMA KASIH KEPADA*
 • *Allah Swt.*
 • *My Parent*
-• *Reelly XD*
+• *FanzOffc*
 • *Danu57P*
 • *Reii Code*
 • *WH MODS*
