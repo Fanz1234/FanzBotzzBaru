@@ -1,5 +1,5 @@
 {
-  "name": "Adrian-MD",
+  "name": "FanzOffc",
   "version": "1.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "AdrianTzy",
+  "author": "Fanz",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "github:AdrianTzy/Baileys",
