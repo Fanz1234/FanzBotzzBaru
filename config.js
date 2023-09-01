@@ -10,7 +10,7 @@ global.APIs = {
 global.APIKeys = {
     'https://api.zahwazein.xyz': 'zenzkey_ad0a9acee99f'
 }
-global.lolhuman = 'APOLOZEA'
+global.lolhuman = '4ec4c2205a943c2dc163cd7e'
 //—————「 Set Nama Bot & Own 」—————//
 global.namabot = 'FanzBotzz'
 global.namaowner = 'FanzOffc'
